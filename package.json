@@ -1,0 +1,13 @@
+{
+  "name": "rspec-runner",
+  "main": "./lib/rspec-runner",
+  "version": "0.0.1",
+  "description": "RSpec spec runner",
+  "repository": "https://github.com/pcasaretto/rspec-runner",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
